@@ -1,19 +1,19 @@
-Отчёт о тестировании части функционала Credit Card Number Validator
+# Отчёт о тестировании части функционала Credit Card Number Validator
 
-Краткое описание:
+## Краткое описание
 - 16.12.20 - 16.12.20 было проведено функциональное тестирование наработок функционала Credit Card Number Validator.
 
 На тестирование затрачено: 30 минут
 
 В результате тестирования дефекты не выявлены.
 
-Описание процесса тестирования
+## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-- Инструкция по установке IntelliJ IDEA https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md
+- [Инструкция по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
-В качестве тестовых данных использовались данные сервиса по генерации валидных номеров для карт:
-- link: https://www.freeformatter.com/credit-card-number-generator-validator.html
+В качестве тестовых данных использовались: 
+- [Данные сервиса по генерации валидных номеров для карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
  VISA:
 - 4716519811071048
